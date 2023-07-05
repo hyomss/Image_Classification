@@ -1,5 +1,5 @@
 # Image_Classification  
-# - Scalp Image Classification for hair loss level detection.   
+# Scalp Image Classification for hair loss level detection.   
 Input: Korean Scalp Image (AI-hub)  
 Output: 4 classes  
 - 0: No hair loss  
