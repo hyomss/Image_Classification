@@ -1,6 +1,6 @@
 # Image_Classification - Scalp Image Classification for hair loss symtom detection.   
-input: Korean Scalp Image (AI-hub)  
-output: 4 classes  
+Input: Korean Scalp Image (AI-hub)  
+Output: 4 classes  
 - 0: No hair loss  
 - 1: Minimal hair loss  
 - 2: Noticeable hair loss  
